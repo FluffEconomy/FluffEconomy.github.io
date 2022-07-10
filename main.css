@@ -126,11 +126,11 @@ body {
         text-align: center;
         margin-top: 50px;
         position: absolute;
-        top: 70%;
-        left: 70%;
-       -moz-transform: translateX(-50%) translateY(-70%);
-       -webkit-transform: translateX(-50%) translateY(-70%);
-        transform: translateX(-50%) translateY(-70%);
+        top: 50%;
+        left: 50%;
+       -moz-transform: translateX(-50%) translateY(-50%);
+       -webkit-transform: translateX(-50%) translateY(-50%);
+        transform: translateX(-50%) translateY(-50%);
 }
 
 .stats li {
