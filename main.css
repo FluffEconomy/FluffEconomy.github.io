@@ -120,11 +120,11 @@ body {
         text-align: center;
         margin-top: 50px;
         position: absolute;
-        top: 60%;
+        top: 70%;
         left: 50%;
-       -moz-transform: translateX(-60%) translateY(-50%);
-       -webkit-transform: translateX(-60%) translateY(-50%);
-        transform: translateX(-60%) translateY(-50%);
+       -moz-transform: translateX(-50%) translateY(-70%);
+       -webkit-transform: translateX(-50%) translateY(-70%);
+        transform: translateX(-50%) translateY(-70%);
 }
 
 .stats li {
