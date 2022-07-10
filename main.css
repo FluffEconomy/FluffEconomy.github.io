@@ -72,10 +72,12 @@ body {
 }
 
 .logoarea {
-        width: 100%;
-        height: auto;
-        margin: 0;
-        padding: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
 }
 
 .logoarea img {
